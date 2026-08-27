@@ -2,6 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.venv/
+.env
+.next/
+node_modules/
 
 # C extensions
 *.so
